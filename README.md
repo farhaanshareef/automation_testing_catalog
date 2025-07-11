@@ -1,5 +1,5 @@
 
-# 🔍 QA Automation Repository
+# 🔍 QA Automation Repositories
 
 This repository curates top-tier QA Automation examples across multiple tech stacks: Selenium, Playwright, BDD, Appium (Java/Python/Flutter), API Testing (Java/Python), JavaScript/TypeScript, and CI/CD pipelines using Jenkins, Bitbucket, and Azure DevOps. Clone, extend, or integrate for your own QA projects!
 
