@@ -92,7 +92,7 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 |-----------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------|
 | Playwright Framework              | Official Node.js + TypeScript Playwright bindings      | [Link](https://github.com/microsoft/playwright)                        |
 | Playwright Framework              | Playwright Test, CI integration, screenshots & traces  | [Link](https://github.com/mxschmitt/playwright-test)                   |
-| Playwright Framework              | Playwright + Allure, config-driven                    | [Link](https://github.com/navaneethkm004/playwright-automation)        |
+| Playwright Framework              | Playwright + Allure, config-driven                    | [Link](https://github.com/naveenanimation20/playwright-java)        |
 
 ### Cypress
 
