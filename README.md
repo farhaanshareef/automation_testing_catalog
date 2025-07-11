@@ -43,7 +43,7 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 
 | Repo Name                          | Features                                                       | Repo Link                                                           |
 |------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------|
-| Mobile Automation with Appium Appium 2.0, Android emulator, TestNG, drag/drop, utility waits | [Link](https://github.com/mfaisalkhatri/appium-java-examples)       |
+| Mobile Automation with Appium Appium |      2.0, Android emulator, TestNG, drag/drop, utility waits | [Link](https://github.com/mfaisalkhatri/appium-java-examples)       |
 | Mobile Automation with Appium      | Android/iOS, native + web, TestNG                              | [Link](https://github.com/anandbagmar/AppiumJavaSample)             |
 
 ### Python
