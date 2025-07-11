@@ -51,7 +51,6 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 | Repository Name                    | Features                                                | Repository Link                                                        |
 |-----------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------|
 | Appium Python Framework           | Appium + pytest + POM                                  | [Link](https://github.com/KimEklund13/Appium-Python)                   |
-| Appium Python Framework           | Appium + unittest for Android                          | [Link](https://github.com/dai-continuous-testing/FirstPythonAppiumTest)|
 | Appium Python Framework           | Python Appium tests with CI configs for Jenkins        | [Link](https://github.com/seetest-io/python-appium-first-test)         |
 
 ### Flutter Mobile App Automation
