@@ -7,11 +7,11 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 
 ## 🐍 Selenium with Python
 
-| Repo Name                                           | Features                                                 | Repo Link                                                                 |
-|-----------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------|
-| ChristianAA/selenium-python-example                 | Pytest, POM, HTML reports                                | [Link](https://github.com/ChristianAA/selenium-python-example)            |
-| nirtal85/Selenium-Python-Example                    | Allure, visual regression, POM, .env support             | [Link](https://github.com/nirtal85/Selenium-Python-Example)               |
-| jagwithyou/automation-testing-python-selenium       | Logging, email reports, pytest framework                 | [Link](https://github.com/jagwithyou/automation-testing-python-selenium)  |
+| Repo Name                                               | Features                                                 | Repo Link                                                                 |
+|---------------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------|
+| ChristianAA/selenium-python-example                     | Pytest, POM, HTML reports                                | [Link](https://github.com/ChristianAA/selenium-python-example)            |
+| nirtal85/Selenium-Python-Example                        | Allure, visual regression, POM, .env support             | [Link](https://github.com/nirtal85/Selenium-Python-Example)               |
+| jagwithyou/automation-testing-python-selenium           | Logging, email reports, pytest framework                 | [Link](https://github.com/jagwithyou/automation-testing-python-selenium)  |
 
 ---
 
