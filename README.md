@@ -102,13 +102,6 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 | bahmutov/cypress-workshop                   | Real-world Cypress workshop            | [Link](https://github.com/bahmutov/cypress-workshop) |
 | vamsikrishna-k/cypress-automation-framework | Cypress + Cucumber + TypeScript        | [Link](https://github.com/vamsikrishna-k/cypress-automation-framework) |
 
-### JavaScript API Testing
-
-| Repo Name                              | Features                              | Repo Link |
-|----------------------------------------|---------------------------------------|-----------|
-| chakri099/Postman-Newman-CICD          | Postman + Newman + CI integration     | [Link](https://github.com/chakri099/Postman-Newman-CICD) |
-| visionmedia/supertest                  | Supertest HTTP testing framework      | [Link](https://github.com/visionmedia/supertest) |
-
 ---
 
 ## 🚀 CI/CD Pipelines
