@@ -7,23 +7,23 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 
 ## 🐍 Selenium with Python
 
-| Repo Name                                      | Features                                                 | Repo Link                                                                 |
-|-----------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------|
-| ChristianAA/selenium-python-example           | Pytest, POM, HTML reports                                | [Link](https://github.com/ChristianAA/selenium-python-example)           |
-| nirtal85/Selenium-Python-Example              | Allure, visual regression, POM, .env support             | [Link](https://github.com/nirtal85/Selenium-Python-Example)              |
-| jagwithyou/automation-testing-python-selenium | Logging, email reports, pytest framework                 | [Link](https://github.com/jagwithyou/automation-testing-python-selenium) |
+| Repo Name                                           | Features                                                 | Repo Link                                                                 |
+|-----------------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------|
+| ChristianAA/selenium-python-example                 | Pytest, POM, HTML reports                                | [Link](https://github.com/ChristianAA/selenium-python-example)            |
+| nirtal85/Selenium-Python-Example                    | Allure, visual regression, POM, .env support             | [Link](https://github.com/nirtal85/Selenium-Python-Example)               |
+| jagwithyou/automation-testing-python-selenium       | Logging, email reports, pytest framework                 | [Link](https://github.com/jagwithyou/automation-testing-python-selenium)  |
 
 ---
 
 ## ☕ Selenium with Java
 
-| Repo Name                                      | Features                                                 | Repo Link                                                             |
-|-----------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------|
-| anhtester/AutomationFrameworkSelenium         | Allure, parallel TestNG, JSON/Excel input               | [Link](https://github.com/anhtester/AutomationFrameworkSelenium)      |
-| nadvolod/selenium-java                        | Selenium 4, Maven, TestNG bootcamp sample               | [Link](https://github.com/nadvolod/selenium-java)                     |
-| mfaisalkhatri/selenium4poc                    | Selenium 4 features, grid, Shadow DOM                   | [Link](https://github.com/mfaisalkhatri/selenium4poc)                 |
-| jmr85/saucedemo-selenium-java                 | Maven/TestNG, Jenkins-ready                             | [Link](https://github.com/jmr85/saucedemo-selenium-java)              |
-
+| Repo Name                                               | Features                                                 | Repo Link                                                              |
+|---------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------|
+| anhtester/AutomationFrameworkSelenium                   | Allure, parallel TestNG, JSON/Excel input               | [Link](https://github.com/anhtester/AutomationFrameworkSelenium)        |
+| nadvolod/selenium-java                                  | Selenium 4, Maven, TestNG bootcamp sample               | [Link](https://github.com/nadvolod/selenium-java)                       |
+| mfaisalkhatri/selenium4poc                              | Selenium 4 features, grid, Shadow DOM                   | [Link](https://github.com/mfaisalkhatri/selenium4poc)                   |
+| jmr85/saucedemo-selenium-java                           | Maven/TestNG, Jenkins-ready                             | [Link](https://github.com/jmr85/saucedemo-selenium-java)                |
+  
 ---
 
 ## 🎭 BDD (Python & Java)
