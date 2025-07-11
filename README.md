@@ -30,10 +30,10 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 
 | Repo Name                                      | Features                                                 | Repo Link                                                                 |
 |-----------------------------------------------|----------------------------------------------------------|---------------------------------------------------------------------------|
-| vinaykumarvvs/sample-selenium-python-cucumber-framework | Python + Cucumber, parallel, HTML reports      | [Link](https://github.com/vinaykumarvvs/sample-selenium-python-cucumber-framework) |
-| andreasneuber/python-cucumber-selenium-example         | Python + Behave, Allure, BDD support           | [Link](https://github.com/andreasneuber/python-cucumber-selenium-example)         |
-| monil20/pytest-bdd-with-selenium                        | pytest-bdd, POM, HTML/XML reporting            | [Link](https://github.com/monil20/pytest-bdd-with-selenium)                        |
-| PublioElio/selenium-cucumber-BDD                        | Java + Cucumber + Selenium                     | [Link](https://github.com/PublioElio/selenium-cucumber-BDD)                        |
+| BDD (Python & Java) | Python + Cucumber, parallel, HTML reports      | [Link](https://github.com/vinaykumarvvs/sample-selenium-python-cucumber-framework) |
+| BDD (Python & Java)         | Python + Behave, Allure, BDD support           | [Link](https://github.com/andreasneuber/python-cucumber-selenium-example)         |
+| BDD (Python & Java)                       | pytest-bdd, POM, HTML/XML reporting            | [Link](https://github.com/monil20/pytest-bdd-with-selenium)                        |
+| BDD (Python & Java)                       | Java + Cucumber + Selenium                     | [Link](https://github.com/PublioElio/selenium-cucumber-BDD)                        |
 
 ---
 
@@ -43,8 +43,8 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 
 | Repo Name                          | Features                                                       | Repo Link                                                           |
 |------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------|
-| mfaisalkhatri/appium-java-examples| Appium 2.0, Android emulator, TestNG, drag/drop, utility waits | [Link](https://github.com/mfaisalkhatri/appium-java-examples)       |
-| anandbagmar/AppiumJavaSample      | Android/iOS, native + web, TestNG                              | [Link](https://github.com/anandbagmar/AppiumJavaSample)             |
+| Mobile Automation with Appium Appium 2.0, Android emulator, TestNG, drag/drop, utility waits | [Link](https://github.com/mfaisalkhatri/appium-java-examples)       |
+| Mobile Automation with Appium      | Android/iOS, native + web, TestNG                              | [Link](https://github.com/anandbagmar/AppiumJavaSample)             |
 
 ### Python
 
