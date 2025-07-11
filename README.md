@@ -106,17 +106,25 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 
 ## 🚀 CI/CD Pipelines
 
-### Jenkins Pipelines (Jenkinsfile in repo)
+This section provides curated CI/CD pipeline examples across popular platforms like **Jenkins**, **Bitbucket**, and **Azure DevOps**. The pipelines support Selenium, Playwright, Appium, and API testing with Java, Python, and JavaScript/TypeScript.
 
-- **Java + Selenium**: `AutomatedOwl/selenium-java-pom-example` includes `Jenkinsfile` for Maven, TestNG & Allure :contentReference[oaicite:7]{index=7}  
-- **Java + API (Rest Assured)**: `wildec2/java-rest-assured-framework` has Gradle/TestNG + Jenkinsfile :contentReference[oaicite:8]{index=8}  
-- **Python Pipeline Example**: `restalion/python-jenkins-pipeline` provides Jenkinsfile for Python test suites :contentReference[oaicite:9]{index=9}  
-- **Appium + Jenkins**: `vbanthia-zz/appium-jenkins-demo` shows Appium iOS + Jenkins pipeline setup :contentReference[oaicite:10]{index=10}  
-- **Python Appium**: `seetest-io/python-appium-first-test` includes CI config for Jenkins, Bitbucket :contentReference[oaicite:11]{index=11}  
+### 🔧 Jenkins Pipelines
 
-### Azure DevOps Pipelines (YAML)
+| Stack                | Language | Features                                         | Repo Link |
+|----------------------|----------|--------------------------------------------------|-----------|
+| Selenium             | Java     | Maven, TestNG, Allure, Jenkinsfile               | [AutomatedOwl/selenium-java-pom-example](https://github.com/AutomatedOwl/selenium-java-pom-example) |
+| API (Rest Assured)   | Java     | Gradle, TestNG, Jenkinsfile                      | [wildec2/java-rest-assured-framework](https://github.com/wildec2/java-rest-assured-framework) |
+| Python Test Pipeline | Python   | Jenkinsfile for Python test suites               | [restalion/python-jenkins-pipeline](https://github.com/restalion/python-jenkins-pipeline) |
+| Appium (iOS)         | Java     | iOS Appium + Jenkins integration                 | [vbanthia-zz/appium-jenkins-demo](https://github.com/vbanthia-zz/appium-jenkins-demo) |
+| Appium               | Python   | Jenkins + Bitbucket pipeline config included     | [seetest-io/python-appium-first-test](https://github.com/seetest-io/python-appium-first-test) |
 
-- **Playwright (JS/TS)**: `BakkappaN/PlaywrightAzureDevopsPipeline` includes `azure-pipeline.yml` with steps for Node → Playwright → reporting :contentReference[oaicite:12]{index=12}  
-- **Playwright Demo**: `qaa-demo/playwright-ado-demo` shows artifact publishing and matrix strategy :contentReference[oaicite:13]{index=13}  
+---
+
+### ☁️ Azure DevOps Pipelines
+
+| Stack      | Language       | Features                                                       | Repo Link |
+|------------|----------------|----------------------------------------------------------------|-----------|
+| Playwright | JS / TypeScript| Azure YAML pipeline for Node + Playwright, artifact publishing | [BakkappaN/PlaywrightAzureDevopsPipeline](https://github.com/BakkappaN/PlaywrightAzureDevopsPipeline) |
+| Playwright | JS / TypeScript| Matrix strategy, build/test steps, CI artifacts                | [qaa-demo/playwright-ado-demo](https://github.com/qaa-demo/playwright-ado-demo) |
 
 ---
