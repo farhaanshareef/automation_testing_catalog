@@ -69,10 +69,10 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 | Repo Name                                   | Features                                           | Repo Link |
 |---------------------------------------------|----------------------------------------------------|-----------|
 | rest-assured/rest-assured                   | Official Java DSL for REST API testing            | [Link](https://github.com/rest-assured/rest-assured) |
-| eliasnogueira/restassured-complete-basic-example | Full architecture with CI/CD readiness          | [Link](https://github.com/eliasnogueira/restassured-complete-basic-example) :contentReference[oaicite:5]{index=5} |
+| eliasnogueira/restassured-complete-basic-example | Full architecture with CI/CD readiness          | [Link](https://github.com/eliasnogueira/restassured-complete-basic-example) |
 | osandadeshan/rest-assured-java-api-automation-demo | CI/CD, Extent Reports, TestNG                   | [Link](https://github.com/osandadeshan/rest-assured-java-api-automation-demo) |
 | mathare/api-testing-java-restassured        | Cucumber + Rest Assured + Java                    | [Link](https://github.com/mathare/api-testing-java-restassured) |
-| wildec2/java-rest-assured-framework         | Gradle/TestNG + Jenkinsfile + Allure              | [Link](https://github.com/wildec2/java-rest-assured-framework) :contentReference[oaicite:6]{index=6} |
+| wildec2/java-rest-assured-framework         | Gradle/TestNG + Jenkinsfile + Allure              | [Link](https://github.com/wildec2/java-rest-assured-framework) |
 
 ### Python
 
