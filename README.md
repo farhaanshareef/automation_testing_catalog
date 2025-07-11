@@ -112,11 +112,11 @@ This section provides curated CI/CD pipeline examples across popular platforms l
 
 | Stack                | Language | Features                                         | Repo Link |
 |----------------------|----------|--------------------------------------------------|-----------|
-| Selenium             | Java     | Maven, TestNG, Allure, Jenkinsfile               | [AutomatedOwl/selenium-java-pom-example](https://github.com/AutomatedOwl/selenium-java-pom-example) |
-| API (Rest Assured)   | Java     | Gradle, TestNG, Jenkinsfile                      | [wildec2/java-rest-assured-framework](https://github.com/wildec2/java-rest-assured-framework) |
-| Python Test Pipeline | Python   | Jenkinsfile for Python test suites               | [restalion/python-jenkins-pipeline](https://github.com/restalion/python-jenkins-pipeline) |
-| Appium (iOS)         | Java     | iOS Appium + Jenkins integration                 | [vbanthia-zz/appium-jenkins-demo](https://github.com/vbanthia-zz/appium-jenkins-demo) |
-| Appium               | Python   | Jenkins + Bitbucket pipeline config included     | [seetest-io/python-appium-first-test](https://github.com/seetest-io/python-appium-first-test) |
+| Selenium             | Java     | Maven, TestNG, Allure, Jenkinsfile               | [Link](https://github.com/AutomatedOwl/selenium-java-pom-example) |
+| API (Rest Assured)   | Java     | Gradle, TestNG, Jenkinsfile                      | [Link](https://github.com/wildec2/java-rest-assured-framework) |
+| Python Test Pipeline | Python   | Jenkinsfile for Python test suites               | [Link](https://github.com/restalion/python-jenkins-pipeline) |
+| Appium (iOS)         | Java     | iOS Appium + Jenkins integration                 | [Link](https://github.com/vbanthia-zz/appium-jenkins-demo) |
+| Appium               | Python   | Jenkins + Bitbucket pipeline config included     | [Link](https://github.com/seetest-io/python-appium-first-test) |
 
 ---
 
@@ -124,7 +124,7 @@ This section provides curated CI/CD pipeline examples across popular platforms l
 
 | Stack      | Language       | Features                                                       | Repo Link |
 |------------|----------------|----------------------------------------------------------------|-----------|
-| Playwright | JS / TypeScript| Azure YAML pipeline for Node + Playwright, artifact publishing | [BakkappaN/PlaywrightAzureDevopsPipeline](https://github.com/BakkappaN/PlaywrightAzureDevopsPipeline) |
-| Playwright | JS / TypeScript| Matrix strategy, build/test steps, CI artifacts                | [qaa-demo/playwright-ado-demo](https://github.com/qaa-demo/playwright-ado-demo) |
+| Playwright | JS / TypeScript| Azure YAML pipeline for Node + Playwright, artifact publishing | [Link](https://github.com/BakkappaN/PlaywrightAzureDevopsPipeline) |
+| Playwright | JS / TypeScript| Matrix strategy, build/test steps, CI artifacts                | [Link](https://github.com/qaa-demo/playwright-ado-demo) |
 
 ---
