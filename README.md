@@ -99,8 +99,8 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 | Repository Name                    | Features                                                | Repository Link                                                        |
 |-----------------------------------|--------------------------------------------------------|-----------------------------------------------------------------------|
 | Cypress Framework                 | Demo of core Cypress features                          | [Link](https://github.com/cypress-io/cypress-example-kitchensink)      |
-| Cypress Framework                 | Real-world Cypress workshop                            | [Link](https://github.com/bahmutov/cypress-workshop)                   |
-| Cypress Framework                 | Cypress + Cucumber + TypeScript                        | [Link](https://github.com/vamsikrishna-k/cypress-automation-framework) |
+| Cypress Framework                 | Real-world Cypress workshop                            | [Link](https://github.com/itkhanz/Cypress-Framework)                   |
+| Cypress Framework                 | Cypress + Cucumber + TypeScript                        | [Link](https://github.com/padmarajnidagundi/Cypress-POM-Ready-To-Use) |
 
 ---
 
