@@ -19,10 +19,10 @@ This repository curates top-tier QA Automation examples across multiple tech sta
 
 | Repo Name                                               | Features                                                 | Repo Link                                                              |
 |---------------------------------------------------------|----------------------------------------------------------|------------------------------------------------------------------------|
-| anhtester/AutomationFrameworkSelenium                   | Allure, parallel TestNG, JSON/Excel input               | [Link](https://github.com/anhtester/AutomationFrameworkSelenium)        |
-| nadvolod/selenium-java                                  | Selenium 4, Maven, TestNG bootcamp sample               | [Link](https://github.com/nadvolod/selenium-java)                       |
-| mfaisalkhatri/selenium4poc                              | Selenium 4 features, grid, Shadow DOM                   | [Link](https://github.com/mfaisalkhatri/selenium4poc)                   |
-| jmr85/saucedemo-selenium-java                           | Maven/TestNG, Jenkins-ready                             | [Link](https://github.com/jmr85/saucedemo-selenium-java)                |
+| Selenium with Java                   | Allure, parallel TestNG, JSON/Excel input               | [Link](https://github.com/anhtester/AutomationFrameworkSelenium)        |
+| Selenium with Java                                 | Selenium 4, Maven, TestNG bootcamp sample               | [Link](https://github.com/nadvolod/selenium-java)                       |
+| Selenium with Java                             | Selenium 4 features, grid, Shadow DOM                   | [Link](https://github.com/mfaisalkhatri/selenium4poc)                   |
+| Selenium with Java                         | Maven/TestNG, Jenkins-ready                             | [Link](https://github.com/jmr85/saucedemo-selenium-java)                |
   
 ---
 
